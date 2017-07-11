@@ -1,13 +1,12 @@
-# Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+# Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Михаил Сороколет](https://up.htmlacademy.ru/adaptive/11/user/387593).
-* Наставник: [Сергей Рубец](https://htmlacademy.ru/profile/id41580).
+* Наставник: [нет наставника].
 
 ---
 
 **Обратите внимание на файлы:**
 
-- [Specification.md](Specification.md) — техническое задание для вашего проекта. Прочтите его и следуйте требованиям.
 - [Contributing.md](Contributing.md) — руководство по внесению изменений.
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
